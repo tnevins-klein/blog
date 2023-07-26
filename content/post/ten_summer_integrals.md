@@ -1,6 +1,6 @@
 ---
 title: "3+ Summer Integrals"
-date: 2023-07-26Tao:14:39-04:00
+date: 2023-07-26:14:39-04:00
 ---
 
 Last year, with grueling effort and a little help from my friend [Stevie](https://www.amazon.com/Calculus-Early-Transcendentals-James-Stewart/dp/1285741552), I managed to complete my school's Calculus I and II courses. Those classes were perhaps the best math classes I've ever taken, seamlessly weaving intuition with elegant formalism ($\delta$-$\var epsilon$ proofs, anyone?). While my summer math efforts have included tours of number theory, combine tonics, the thing that I have spent perhaps the most time on is evaluating integrals.
