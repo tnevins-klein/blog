@@ -1,7 +1,6 @@
 ---
 title: "Architecture"
 date: 2023-07-26T09:36:34-04:00
-draft: true
 menu: 'main'
 ---
 

@@ -133,3 +133,26 @@ p {
 	border-radius: 5px;
 	font-weight: bold;
 }
+
+.main-menu {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 10px 0;
+
+	flex-direction: row;
+}
+
+.main-menu a {
+	display: block;
+	margin: 0 10px;
+	color: rgb(50,50,50);
+	text-decoration: underline;
+
+	transition: color 0.2s;
+}
+
+.main-menu a:hover {
+	color: black;
+}
