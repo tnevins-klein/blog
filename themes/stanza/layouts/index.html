@@ -1,0 +1,19 @@
+{{ define "all" }}
+<div class="header header-container">
+	<div class="inner">
+		<img src="bg.jpg" class="noselect" />
+
+
+		<h1>{{ .Site.Title }}</h1>
+		<p class="description">{{.Site.Params.description}}</p>
+		
+		{{ partial "social_links.html" . }}
+		{{ partial "main_menu.html" }}
+
+		<div class="content">
+			{{ .Content }}
+		</div>
+	</div>
+</div>
+
+{{ end }}

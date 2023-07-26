@@ -1,0 +1,13 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+
+title = 'Tani Nevins-Klein'
+theme = 'stanza'
+sectionPagesMenu = 'main'
+
+[params]
+description = 'Rúcǐ zhēnshí de hǎo péngyǒu!'
+
+githubUsername = "tnevins-klein"
+discordUsername = "epsilondeltafan"
+instagramUsername = "unclearlines"

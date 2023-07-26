@@ -1,0 +1,16 @@
+
+
+{{ define "main" }}
+<div class="content-header">
+<h2>{{.Title}}</h2>
+Published <i>{{.Date.Format "January 2, 2006"}}</i>
+</div>
+{{.Content}}
+<script src="https://utteranc.es/client.js"
+        repo="tnevins-klein/comments-repo"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+{{ end }}
