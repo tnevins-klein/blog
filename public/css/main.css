@@ -1,0 +1,158 @@
+@import url("/css/reset.css");
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: sans-serif;
+	margin: 0;
+
+	min-width: 300px;
+	padding: 0 10px;
+}
+
+a {
+	color: black;
+}
+
+p {
+	line-height: 1.4em;
+}
+
+.header {
+	width: 100%;
+	display: flex;
+
+
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+	min-height: 40px;
+	padding: 10px 0;
+}
+
+.header a {
+	text-decoration: none;
+}
+
+.header-container {
+	min-height: 100vh;
+}
+
+.header h1 {
+	font-size: 2em;
+	text-align: center;
+}
+
+.header .description {
+	font-style: italic;
+	text-align: center;
+}
+
+.header .inner {
+	max-width: 500px;
+	display: block;
+}
+
+.header .content {
+	margin-top: 10px;
+	color: darkslategrey;
+}
+
+.header img {
+	width: 100%;
+	border: 2px solid lightblue;
+
+	margin-bottom: 10px;
+}
+
+
+.social-links {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+
+	padding-top: 10px;
+
+	justify-content: center;
+}
+
+.social-links a {
+	width: 30px;
+	height: 30px;
+
+	margin: 0 10px;
+	display: block;
+
+	background-color: darkgrey;
+	transition: background-color 0.3s, transform 0.3s;
+	transform: none;
+}
+
+.social-links a:hover {
+	background-color: black;
+	transform: scale(1.1);
+}
+
+.icon-gh {
+	mask-image: url(/img/github.svg);
+	-webkit-mask-image: url(/img/github.svg);
+
+}
+
+.icon-insta {
+	mask-image: url(/img/i.svg);
+	-webkit-mask-image: url(/img/i.svg);
+
+}
+
+.icon-disc {
+	mask-image: url(/img/discord.svg);
+	-webkit-mask-image: url(/img/discord.svg);
+}
+
+.content {
+	max-width: 500px;
+	margin: auto;
+}
+
+.content-header {
+	margin-bottom: 20px;
+}
+
+.content p {
+	margin: 10px 0;
+}
+
+.content code {
+	background-color: rgb(240,240,240);
+	color: black;
+	padding: 5px;
+	border-radius: 5px;
+	font-weight: bold;
+}
+
+.main-menu {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 10px 0;
+
+	flex-direction: row;
+}
+
+.main-menu a {
+	display: block;
+	margin: 0 10px;
+	color: rgb(50,50,50);
+	text-decoration: underline;
+
+	transition: color 0.2s;
+}
+
+.main-menu a:hover {
+	color: black;
+}
