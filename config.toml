@@ -5,7 +5,7 @@ title = 'Tani Nevins-Klein'
 theme = 'stanza'
 sectionPagesMenu = 'main'
 
-paginate = 1
+paginate = 10
 
 [params]
 description = 'Rúcǐ zhēnshí de hǎo péngyǒu!'
