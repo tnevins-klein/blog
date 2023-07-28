@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/playing_chopin.md",
+                "file": "content/architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/playing_chopin.md",
+                "file": "content/architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/playing_chopin.md",
+                "file": "content/architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/playing_chopin.md"
+                "file": "content/architecture.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e892f702b9c2da2",
+  "active": "4e447ea93e7c702c",
   "lastOpenFiles": [
+    "content/post/playing_chopin.md",
     "static/playing_chopin/deux_nocturnes.jpg",
     "static/playing_chopin/chopin.webp",
     "static/playing_chopin",
@@ -161,7 +162,6 @@
     "untitled folder",
     "content/about.md",
     "content/architecture.md",
-    "content/post/playing_chopin.md",
     "public/bg.jpg",
     "content/post/ten_summer_integrals.md",
     "content/_index.md"
