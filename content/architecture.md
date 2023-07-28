@@ -10,7 +10,7 @@ The mathematical formulas are rendered with \\(\LaTeX\\) and [KaTeX](https://kat
 
 $$\int_0^1 f(x) dx = 4$$
 
-Aesthetically, I decided to go for a very minimal, easy to maintain design, and avoid the [Google Fonts](https://fonts.google.com) temptation, however alluring it may be. The only JavaScript is for rendering mathematical formulas.
+Aesthetically, I decided to go for a very minimal, easy to maintain design, and avoid the [Google Fonts](https://fonts.google.com) temptation, however alluring it may be. The only JavaScript is for rendering mathematical formulas and the optional comments section made with [utterances](https://utteranc.es/).
 
 ### Personal Hardware
 I use a combination of an Intel NUC running [Arch Linux](https://archlinux.org) and a MacBook Pro. It works, and I don't have much more to say than that.

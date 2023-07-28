@@ -3,9 +3,12 @@
 {{ define "main" }}
 <div class="content-header">
 <h2>{{.Title}}</h2>
-Published <i>{{.Date.Format "January 2, 2006"}}</i>
+{{ if .Date }}
+        Published <i>{{.Date.Format "January 2, 2006"}}</i>
+{{ end }}
 </div>
-{{.Content}}
+{{ safeHTML .Content}}
+{{ if not (eq (.Param "noComment") true) }}
 <script src="https://utteranc.es/client.js"
         repo="{{ .Site.Params.utterancesRepo }}"
         issue-term="pathname"
@@ -13,4 +16,5 @@ Published <i>{{.Date.Format "January 2, 2006"}}</i>
         crossorigin="anonymous"
         async>
 </script>
+{{ end }}
 {{ end }}
