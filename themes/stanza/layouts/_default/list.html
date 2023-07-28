@@ -9,12 +9,14 @@
   </article>
   <ul>
     <!-- Ranges through content/posts/*.md -->
-    {{ range .Pages }}
+    {{ range .Paginator.Pages }}
       <li>
         <a href="{{ .Permalink }}"><b>{{ .Title }}</b></a> - {{.Date.Format "January 2, 2006"}}
-        <div class="content"><i>{{first 600 .Content}}...</i> <a href="{{ .Permalink }}">Read more</a></div>
+        <div class="content">{{first 600 .Content }}... <a href="{{ .Permalink }}">Read more</a></div>
       </li>
     {{ end }}
+    
+    {{ template "_internal/pagination.html" . }}
   </ul>
 </main>
 {{ end }}

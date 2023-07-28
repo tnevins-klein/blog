@@ -4,7 +4,7 @@ date: 2023-07-27T18:39:36-04:00
 draft: false
 ---
 
-![image](/playing_chopin/chopin.webp)
+![One of two photographs ever taken of Chopin](/img/playing_chopin/chopin.webp)
 
 The first "serious" piece I learned for piano was Chopin's Prelude in E minor. It is a languid, lyrical piece, short and quiet with a distinctly funerary air. My edition was entirely unsuited to the emotional quality of the pieces, with a neon cover and a garish, fading blackletter announcing the composers name and the comparative difficulties of the pieces inside.
 
@@ -30,7 +30,7 @@ I could play that notes, at least. Balance, articulation, rubato — these thing
 
 The next years of my musical education, interwoven as they are with the epidemic, are a blur in my mind, reduced to a series of Panglossian vignettes. A stately practice room at the music school, dying light gently illuminating an ornate piano, as I played the last page of the Eb major nocturne. An odd sleepless night, alone and desperate, quietly sight-reading the A minor waltz. The catharsis, the overwhelming sense of victory, as I finally played the first few measures of *Fantasie Impromptu*. These moments will always have a place in my heart.
 
-![A tightly focused images of a score for Chopin's Nocturne in F minor](/playing_chopin/deux_nocturnes.jpg)
+![A tightly focused image of a score for Chopin's Nocturne in F minor](/img/playing_chopin/deux_nocturnes.jpg)
 
 I was once rightfully criticized by my teacher for playing to heavily to my own aesthetic preferences. My exaggerated *ritardandos*, my self-aggrandizing crescendos, they serve the player but not the listener. Chopin is so easy to put *everything* into; the bad days at school, the bad days at home, the overwhelming feelings of rejection and isolation, all overtake common interpretation and turn a Ballade it into an unrefined rant, this Platonic ideal of emotional expression made into an ugly, all-to-real expression of the inner thoughts of an angst-ridden teenager.
 

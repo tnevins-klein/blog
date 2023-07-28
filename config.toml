@@ -5,9 +5,14 @@ title = 'Tani Nevins-Klein'
 theme = 'stanza'
 sectionPagesMenu = 'main'
 
+paginate = 1
+
 [params]
 description = 'Rúcǐ zhēnshí de hǎo péngyǒu!'
 
 githubUsername = "tnevins-klein"
 discordUsername = "epsilondeltafan"
 instagramUsername = "unclearlines"
+
+frontPageImage = "/img/bg.jpg"
+utterancesRepo = "tnevins-klein/blog"
