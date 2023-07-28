@@ -11,8 +11,12 @@
             "id": "4e447ea93e7c702c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/playing_chopin.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]

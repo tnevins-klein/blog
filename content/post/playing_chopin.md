@@ -1,6 +1,6 @@
 ---
 title: "Playing Chopin"
-date: 2023-07-26T18:39:36-04:00
+date: 2023-07-27T18:39:36-04:00
 draft: false
 ---
 
