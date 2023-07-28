@@ -12,7 +12,7 @@
     {{ range .Pages }}
       <li>
         <a href="{{ .Permalink }}"><b>{{ .Title }}</b></a> - {{.Date.Format "January 2, 2006"}}
-        <i>{{first 600 .Content}}...</i> <a href="{{ .Permalink }}">Read more</a>
+        <div class="content"><i>{{first 600 .Content}}...</i> <a href="{{ .Permalink }}">Read more</a></div>
       </li>
     {{ end }}
   </ul>

@@ -160,3 +160,25 @@ p {
 .main-menu a:hover {
 	color: black;
 }
+
+.content img {
+	width: 100%;
+	max-width: 200px;
+	padding: 10px;
+}
+
+blockquote {
+	border-left: 2px solid black;
+	margin-left: 10px;
+	padding-left: 10px;
+
+	font-style: italic;
+}
+
+.content img:nth-child(odd) {
+	float: right;
+}
+
+.content img:nth-child(even) {
+	float: left;
+}
