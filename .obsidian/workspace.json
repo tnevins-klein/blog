@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dacff9a7109cf303",
+        "id": "d264eaeea1225391",
         "type": "tabs",
         "children": [
           {
-            "id": "4e447ea93e7c702c",
+            "id": "49f74ef8c51f6bd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/architecture.md",
+                "file": "content/post/gamma.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/architecture.md",
+                "file": "content/post/gamma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/architecture.md",
+                "file": "content/post/gamma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/architecture.md"
+                "file": "content/post/gamma.md"
               }
             }
           }
@@ -146,24 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e447ea93e7c702c",
+  "active": "49f74ef8c51f6bd6",
   "lastOpenFiles": [
+    "content/post/goals.md",
+    "content/post/gamma.md",
+    "static/img/goals/plusai.jpg",
+    "static/img/goals/Pasted image 20230728184603.jpg",
+    "static/img/goals",
+    "public/bg.jpg",
+    "content/post/create.md",
+    "content/architecture.md",
+    "content/about.md",
     "content/post/playing_chopin.md",
+    "content/_index.md",
+    "content/post/ten_summer_integrals.md",
+    "static/img/playing_chopin/chopin.webp",
+    "static/img/playing_chopin/deux_nocturnes.jpg",
+    "static/img/bg.jpg",
     "static/playing_chopin/deux_nocturnes.jpg",
     "static/playing_chopin/chopin.webp",
     "static/playing_chopin",
     "static copy/chopin.webp",
     "static copy",
     "static/chopin.webp",
-    "static/chopin.jpg.webp",
-    "static/LA-Bisson-Frederic-Chopin-detail-photo-publisher-1849.jpg.webp",
-    "LA-Bisson-Frederic-Chopin-detail-photo-publisher-1849.jpg.webp",
     "static",
-    "untitled folder",
-    "content/about.md",
-    "content/architecture.md",
-    "public/bg.jpg",
-    "content/post/ten_summer_integrals.md",
-    "content/_index.md"
+    "untitled folder"
   ]
 }
