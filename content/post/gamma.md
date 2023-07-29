@@ -12,7 +12,7 @@ $$\begin{align*}
 &\int_0^\infty (a_nx^n + \cdots + a_0x^0) e^{-x} dx \\\\= a_n &\int_0^\infty x^n e^{-x} dx + \cdots + a_0 \int_0^\infty x^0 e^{-x} dx
 \end{align*}$$
 
-Something about that $\int_0^\infty x^n e^{-x}$ seems kind of familiar, no? I didn't think so. So I proceeded, taking care to integrate by parts and evaluate my limits property,
+Something about that $\int_0^\infty x^n e^{-x}$ seems kind of familiar, no? I didn't think so. So I proceeded, taking care to integrate by parts and evaluate my limits properly,
 
 $$\begin{align*}\int_0^\infty x^n e^{-x} dx = -x^ne^{-x} \Bigr]_0^\infty + n \int_0^\infty x^{n-1} e^{-x}dx\\\\\implies \int_0^\infty x^{n+1} e^{-x} dx = n \int_0^\infty x^n e^{-x} dx \\\\\end{align*}$$
 
