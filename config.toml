@@ -8,7 +8,7 @@ sectionPagesMenu = 'main'
 paginate = 10
 
 [params]
-description = 'Rúcǐ zhēnshí de hǎo péngyǒu!'
+description = ''
 
 githubUsername = "tnevins-klein"
 discordUsername = "epsilondeltafan"
